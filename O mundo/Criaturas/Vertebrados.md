@@ -1,0 +1,6 @@
+## Animais - Vertebrados
+
+Nome | Descrição | Alimentação | Localização | Informações adicionais
+Coru Branco | Uma pequena criatura de pelos brancos, possuem uma placa óssea no topo do crânio para defesa. | Herbivoros | Em toda a extensão dos picos gelados de *Iwane*. | São a principal fonte de alimentação e renda dos povos que vivem nos picos gelados de *Iwane*. 
+Trecon Branco | Uma criatura selvagem e feroz de médio porte coberta por pelos brancos, possui longas garras afiadas e andam sempre em bandos. | Carnivoros | Em toda a extensão dos picos gelados de *Iwane*. | É o principal predador dos *Coru's Brancos* e dos *Iwane's Brancos*.
+Iwane Branco | Um passaro de médio porte coberto por penas brancas, possui garras afiadas e um bico curvado, utilizados para escavar a neve em busca de alimento e como forma de defesa. | Herbívoros | Em toda a extensão dos picos gelados de *Iwane*. | O nome dos Picos gelados deve-se ao fato de que os *Iwane's* são as criaturas mais abundantes dos Picos gelados de *Iwane*.
