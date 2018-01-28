@@ -8,7 +8,7 @@ Nome | Descrição | Propriedades
 -----|-----------|--------------
 Ferro | Metal facilmente encontrado em minas de pouca profundidade | Possuem uma boa flexibilidade e resistência, além de possuirem uma alta transmissão de energia. 
 Cobre | Metal facilmente encontrado em minas de pouca profundidade | Possuem uma boa flexibilidade e resistência, além de possuirem uma alta transmissão de energia.
-skirrill | Metal leve encontrado em minas de média profundidade | Possuem uma boa flexibilidade, porém pouca resistência, além de possuírem uma média transmissão de energia.
+skirrill | Metal leve encontrado em minas de média profundidade | Possuem uma alta flexibilidade e boa resistência, além de possuírem uma média transmissão de energia.
 
 ### Minerais
 

@@ -28,14 +28,14 @@ Ciclo Anual | Tempo necessário para o movimento de translação do planeta | 10
 
 Número | Regência | Festival
 -------|---------|---------
-*Iconah* 1 | Guerreiro |
-*Iconah* 2 | Atirador |
-*Iconah* 3 | Oráculo |
+*Iconah* 1 | Guerreiro | Festival da Guerra
+*Iconah* 2 | Ladino | 
+*Iconah* 3 | Oráculo | Festival dos Mortos
 *Iconah* 4 | Domador |
 *Iconah* 5 | Metafísico |
-*Iconah* 6 | Ilusionista |
-*Iconah* 7 | Conjurador |
-*Iconah* 8 | Rúnico |
-*Iconah* 9 | Feiticeiro |
-*Iconah* 10 | Ladino |
+*Iconah* 6 | Atirador |
+*Iconah* 7 | Feiticeiro | Festival da Vida
+*Iconah* 8 | Ilusionista |
+*Iconah* 9 | Conjurador |
+*Iconah* 10 | Rúnico | 
 *Semi-Iconah* | [Não há] | Fim do ciclo anual
